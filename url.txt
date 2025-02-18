@@ -1,0 +1,3 @@
+[submodule "Sofia-Andrade-Massagista"]
+    path = Sofia-Andrade-Massagista
+    url = https://github.com/ClaudiaVeloso8/Sofia-Andrade-Massagista.git
